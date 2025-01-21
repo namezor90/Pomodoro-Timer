@@ -2,7 +2,7 @@
 
 Egy egyszerű, de hatékony Pomodoro időzítő alkalmazás Python és Tkinter használatával. Ez az alkalmazás segít a produktivitás növelésében a Pomodoro Technika alkalmazásával.
 
-![Pomodoro Timer Screenshot](tomato.png)
+![Pomodoro Timer Screenshot](preview.png)
 
 ## 📋 Jellemzők
 
